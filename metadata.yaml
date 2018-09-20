@@ -1,5 +1,5 @@
 _repo: Cameron-of-Lochiel_53154
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Edwards, H. C. (Harry C.)
@@ -18,6 +18,9 @@ contributor:
     gutenberg_agent_id: '2272'
     url: http://www.gutenberg.org/2009/agents/2272
     wikipedia: http://en.wikipedia.org/wiki/Charles_G._D._Roberts
+covers:
+- cover_type: archival
+  image_path: 53154-h/images/cover.jpg
 creator:
   author:
     agent_name: Aubert de Gaspé, Philippe
@@ -30,6 +33,8 @@ creator:
     gutenberg_agent_id: '41531'
     url: http://www.gutenberg.org/2009/agents/41531
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53154#Cameron-of-Lochiel
 gutenberg_issued: '2016-09-27'
 gutenberg_type: Text
 identifiers:
